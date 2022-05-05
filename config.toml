@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Alex - Mind Garden 🌵🌴🌳'
+theme = "hugo-PaperMod"
